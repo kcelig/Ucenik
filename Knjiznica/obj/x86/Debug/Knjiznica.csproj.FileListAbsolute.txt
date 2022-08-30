@@ -1,0 +1,39 @@
+C:\Users\HAL\documents\visual studio 2010\Projects\Knjiznica\Knjiznica\bin\Debug\Knjiznica.exe
+C:\Users\HAL\documents\visual studio 2010\Projects\Knjiznica\Knjiznica\bin\Debug\Knjiznica.pdb
+C:\Users\HAL\documents\visual studio 2010\Projects\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.Form1.resources
+C:\Users\HAL\documents\visual studio 2010\Projects\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.Forme.Glavna.resources
+C:\Users\HAL\documents\visual studio 2010\Projects\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.Properties.Resources.resources
+C:\Users\HAL\documents\visual studio 2010\Projects\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.csproj.GenerateResource.Cache
+C:\Users\HAL\documents\visual studio 2010\Projects\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.exe
+C:\Users\HAL\documents\visual studio 2010\Projects\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.pdb
+C:\Users\HAL\Desktop\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.exe
+C:\Users\HAL\Desktop\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.pdb
+C:\Users\HAL\Desktop\Knjiznica\Knjiznica\bin\Debug\Knjiznica.exe
+C:\Users\HAL\Desktop\Knjiznica\Knjiznica\bin\Debug\Knjiznica.pdb
+C:\Users\HAL\Desktop\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.Form1.resources
+C:\Users\HAL\Desktop\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.Forme.Ucenici.resources
+C:\Users\HAL\Desktop\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.Forme.Glavna.resources
+C:\Users\HAL\Desktop\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.Properties.Resources.resources
+C:\Users\HAL\Desktop\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.csproj.GenerateResource.Cache
+C:\Users\HAL\Desktop\Knjiznica\Knjiznica\obj\x86\Debug\Knjiznica.Forme.UDetalji.resources
+C:\Users\HAL\Desktop\Knjiznica – kopija\Knjiznica\obj\x86\Debug\Knjiznica.exe
+C:\Users\HAL\Desktop\Knjiznica – kopija\Knjiznica\obj\x86\Debug\Knjiznica.pdb
+C:\Users\HAL\Desktop\Knjiznica – kopija\Knjiznica\obj\x86\Debug\Knjiznica.Form1.resources
+C:\Users\HAL\Desktop\Knjiznica – kopija\Knjiznica\obj\x86\Debug\Knjiznica.Forme.Ucenici.resources
+C:\Users\HAL\Desktop\Knjiznica – kopija\Knjiznica\obj\x86\Debug\Knjiznica.Forme.UDetalji.resources
+C:\Users\HAL\Desktop\Knjiznica – kopija\Knjiznica\obj\x86\Debug\Knjiznica.Forme.Glavna.resources
+C:\Users\HAL\Desktop\Knjiznica – kopija\Knjiznica\obj\x86\Debug\Knjiznica.Properties.Resources.resources
+C:\Users\HAL\Desktop\Knjiznica – kopija\Knjiznica\obj\x86\Debug\Knjiznica.csproj.GenerateResource.Cache
+C:\Users\HAL\Desktop\Knjiznica – kopija\Knjiznica\bin\Debug\Knjiznica.exe
+C:\Users\HAL\Desktop\Knjiznica – kopija\Knjiznica\bin\Debug\Knjiznica.pdb
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\obj\x86\Debug\Knjiznica.exe
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\obj\x86\Debug\Knjiznica.pdb
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\bin\Debug\Knjiznica.exe
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\bin\Debug\Knjiznica.pdb
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\obj\x86\Debug\Knjiznica.Form1.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\obj\x86\Debug\Knjiznica.Forme.Ucenici.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\obj\x86\Debug\Knjiznica.Forme.UDetalji.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\obj\x86\Debug\Knjiznica.Forme.Glavna.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\obj\x86\Debug\Knjiznica.Properties.Resources.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\obj\x86\Debug\Knjiznica.csproj.GenerateResource.Cache
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Ucenik\Knjiznica\obj\x86\Debug\Knjiznica.csprojResolveAssemblyReference.cache
